@@ -4,31 +4,31 @@ export const siteConfig = {
   description: "Portfolio website of Banana Co.",
   accentColor: "#FFDF00",
   social: {
-    email: "your-email@example.com",
+    email: "jjramirez1776@gmail.com",
     linkedin: "https://linkedin.com/in/yourprofile",
     twitter: "https://x.com/rfitzio",
     github: "https://github.com/RyanFitzgerald",
   },
   aboutMe:
     "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem quos asperiores nihil consequatur tempore cupiditate architecto natus commodi corrupti quas quasi facere est, dignissimos odit nam veniam sapiente ut, vitae eligendi ipsum dolor, nostrum ullam impedit! Corrupti ratione mollitia temporibus necessitatibus, consectetur reiciendis recusandae id, dolorum quaerat, vero pariatur. Ratione!",
-  skills: ["Javascript", "React", "Node.js", "Python", "AWS", "Docker"],
+  skills: ["3D Printing", "PC Building", "IT Troubleshooting", "Concept Design Creation", "Microcontrollers", "Robotics"],
   projects: [
     {
-      name: "AI Dev Roundup Newsletter",
+      name: "Iron Man Mark 3 Suit",
       description:
-        "One concise email. Five minutes. Every Tuesday. Essential AI news & trends, production-ready libraries, powerful AI tools, and real-world code examples",
+        "An obsession for the famous superhero and 3D printing led to the construction of my personal favorite version of the Iron Man Suit",
       link: "https://aidevroundup.com/?ref=devportfolio",
       skills: ["React", "Node.js", "AWS"],
     },
     {
-      name: "Chrome Extension Mastery: Build Full-Stack Extensions with React & Node.js",
+      name: "PC Building Experience",
       description:
         "Master the art of building production-ready, full-stack Chrome Extensions using modern web technologies and best practices",
       link: "https://fullstackextensions.com/?ref=devportfolio",
       skills: ["React", "Node.js", "AWS"],
     },
     {
-      name: "ExtensionKit",
+      name: "Radio-Active Spider Speaker",
       description:
         "Kit to jump-start your Chrome extension projects with a variety of battle-tested starter templates & examples",
       link: "https://extensionkit.io/?ref=devportfolio",
@@ -37,29 +37,29 @@ export const siteConfig = {
   ],
   experience: [
     {
-      company: "Tech Company",
-      title: "Senior Software Engineer",
-      dateRange: "Jan 2022 - Present",
+      company: "Flix Brewhouse",
+      title: "Server",
+      dateRange: "July 2024 - Present",
       bullets: [
-        "Led development of microservices architecture serving 1M+ users",
-        "Reduced API response times by 40% through optimization",
+        "Continuous customer service experience, including checking credentials and ensuring visit satisfaction",
+        "",
         "Mentored team of 5 junior developers",
       ],
     },
     {
-      company: "Startup Inc",
-      title: "Full Stack Developer",
-      dateRange: "Jun 2020 - Dec 2021",
+      company: "SA Community Pool Managment",
+      title: "Life Gaurd",
+      dateRange: "Jun 2020 - Oct 2022",
       bullets: [
-        "Built and launched MVP product from scratch using React and Node.js",
-        "Implemented CI/CD pipeline reducing deployment time by 60%",
-        "Collaborated with product team to define technical requirements",
+        "Worked with checking in guests and ensuring their safety in the water",
+        "Kept supplies and paperwork organized at all times for efficient use",
+        "Maintained cleanliness around the facility, ensuring guest satisfaction and safety",
       ],
     },
     {
-      company: "Digital Agency",
-      title: "Frontend Developer",
-      dateRange: "Aug 2018 - May 2020",
+      company: "Flix Brewhouse",
+      title: "Server",
+      dateRange: "July 2024 - Present",
       bullets: [
         "Developed responsive web applications for 20+ clients",
         "Improved site performance scores by 35% on average",
