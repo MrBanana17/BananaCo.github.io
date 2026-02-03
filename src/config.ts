@@ -1,5 +1,5 @@
 export const siteConfig = {
-  name: "Joaquin Ramirez"
+  name: "Joaquin Ramirez",
   title: "Computer Tech and Artist",
   description: "Portfolio website of Banana Co.",
   accentColor: "#FFDF00",
