@@ -10,7 +10,7 @@ export const siteConfig = {
     github: "https://github.com/MrBanana17",
   },
   aboutMe:
-    "I am an aspiring Computer Tech looking for an opportunity to use my skills to better the world in whatever way I can. My passion for computers and all things tech branches from 3D Design and printing to building and repairing computers all the way to sound design through my overtly computerized Guitar setup. My goal currently is to find a company to prove my skills and to grow to bigger and more impactful projects or services.",
+    "I am an aspiring Computer Tech looking for an opportunity to use my skills to better the world in whatever way I can. My passion for computers and all things tech began with building a simple PC for my mom, which led to my obsessions with 3D printing, Robotics, and, of course, building and repairing many more PCs. My goal currently is to find a company to prove my skills and to grow to bigger and more impactful projects or services.",
   skills: ["3D Printing", "PC Building", "IT Troubleshooting", "Concept Design Creation", "Microcontrollers", "Robotics"],
   projects: [
     {
