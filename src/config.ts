@@ -17,21 +17,21 @@ export const siteConfig = {
       name: "Iron Man Mark 3 Suit",
       description:
         "An obsession for the famous superhero and 3D printing led to the construction of my personal favorite version of the Iron Man Suit",
-      link: "https://aidevroundup.com/?ref=devportfolio",
+      link: "https://mrbanana17.github.io/IronMan/",
       skills: ["3D Printing", "Cosmetics", "Circuitry"],
     },
     {
       name: "PC Building Experience",
       description:
         "PC Building has been a passion of mine for over a century now, and these are the beautiful machines I've had the joy of working with",
-      link: "https://fullstackextensions.com/?ref=devportfolio",
+      link: "https://mrbanana17.github.io/PCBuilding/",
       skills: ["Hardware", "Image Flashing", "Wiring"],
     },
     {
       name: "Radio-Active Spider Speaker",
       description:
         "Going above and beyond for a simple 3D modeling assignment made for a very special friend that allowed me to show my peers how easy robotics can be",
-      link: "https://extensionkit.io/?ref=devportfolio",
+      link: "https://mrbanana17.github.io/RadioActive/",
       skills: ["Code Writing/Uploading", "Advanced Circuitry", "3D Design"],
     },
   ],
