@@ -1,5 +1,5 @@
 export const siteConfig = {
-  name: "Joaquin Ramirez",
+  name: "Joaquin J. Ramirez",
   title: "Computer Tech and Artist",
   description: "Portfolio website of Banana Co.",
   accentColor: "#FFDF00",
@@ -10,7 +10,7 @@ export const siteConfig = {
     github: "https://github.com/MrBanana17",
   },
   aboutMe:
-    " ",
+    "I am an aspiring Computer Tech looking for an opportunity to use my skills to better the world in whatever way I can. My passion for computers and all things tech branches from 3D Design and printing to building and repairing computers all the way to sound design through my overtly computerized Guitar setup. My goal currently is to find a company to prove my skills and to grow to bigger and more impactful projects or services.",
   skills: ["3D Printing", "PC Building", "IT Troubleshooting", "Concept Design Creation", "Microcontrollers", "Robotics"],
   projects: [
     {
@@ -18,21 +18,21 @@ export const siteConfig = {
       description:
         "An obsession for the famous superhero and 3D printing led to the construction of my personal favorite version of the Iron Man Suit",
       link: "https://aidevroundup.com/?ref=devportfolio",
-      skills: ["React", "Node.js", "AWS"],
+      skills: ["3D Printing", "Cosmetics", "Circuitry"],
     },
     {
       name: "PC Building Experience",
       description:
         "PC Building has been a passion of mine for over a century now, and these are the beautiful machines I've had the joy of working with",
       link: "https://fullstackextensions.com/?ref=devportfolio",
-      skills: ["React", "Node.js", "AWS"],
+      skills: ["Hardware", "Image Flashing", "Wiring"],
     },
     {
       name: "Radio-Active Spider Speaker",
       description:
         "Going above and beyond for a simple 3D modeling assignment made for a very special friend that allowed me to show my peers how easy robotics can be",
       link: "https://extensionkit.io/?ref=devportfolio",
-      skills: ["React", "Node.js", "AWS"],
+      skills: ["Code Writing/Uploading", "Advanced Circuitry", "3D Design"],
     },
   ],
   experience: [
