@@ -5,7 +5,7 @@ export const siteConfig = {
   accentColor: "#FFDF00",
   social: {
     email: "jjramirez1776@gmail.com",
-    linkedin: "https://linkedin.com/in/yourprofile",
+    linkedin: "www.linkedin.com/in/joaquin-ramirez-b9ba933aa",
     twitter: "https://instagram.com/its_jbruh",
     github: "https://github.com/MrBanana17",
   },
@@ -43,7 +43,7 @@ export const siteConfig = {
       bullets: [
         "Continuous customer service experience, including checking credentials and ensuring visit satisfaction",
         "Intuitive sales skills, including money management and ticket/receipt experience",
-        "",
+        "Teamwork and task delegation within teams of 2-6 to cover 20-200 guests",
       ],
     },
     {
