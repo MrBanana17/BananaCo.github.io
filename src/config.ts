@@ -6,11 +6,11 @@ export const siteConfig = {
   social: {
     email: "jjramirez1776@gmail.com",
     linkedin: "https://linkedin.com/in/yourprofile",
-    twitter: "https://x.com/rfitzio",
-    github: "https://github.com/RyanFitzgerald",
+    twitter: "https://instagram.com/its_jbruh",
+    github: "https://github.com/MrBanana17",
   },
   aboutMe:
-    "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem quos asperiores nihil consequatur tempore cupiditate architecto natus commodi corrupti quas quasi facere est, dignissimos odit nam veniam sapiente ut, vitae eligendi ipsum dolor, nostrum ullam impedit! Corrupti ratione mollitia temporibus necessitatibus, consectetur reiciendis recusandae id, dolorum quaerat, vero pariatur. Ratione!",
+    " ",
   skills: ["3D Printing", "PC Building", "IT Troubleshooting", "Concept Design Creation", "Microcontrollers", "Robotics"],
   projects: [
     {
@@ -23,14 +23,14 @@ export const siteConfig = {
     {
       name: "PC Building Experience",
       description:
-        "Master the art of building production-ready, full-stack Chrome Extensions using modern web technologies and best practices",
+        "PC Building has been a passion of mine for over a century now, and these are the beautiful machines I've had the joy of working with",
       link: "https://fullstackextensions.com/?ref=devportfolio",
       skills: ["React", "Node.js", "AWS"],
     },
     {
       name: "Radio-Active Spider Speaker",
       description:
-        "Kit to jump-start your Chrome extension projects with a variety of battle-tested starter templates & examples",
+        "Going above and beyond for a simple 3D modeling assignment made for a very special friend that allowed me to show my peers how easy robotics can be",
       link: "https://extensionkit.io/?ref=devportfolio",
       skills: ["React", "Node.js", "AWS"],
     },
@@ -42,13 +42,23 @@ export const siteConfig = {
       dateRange: "July 2024 - Present",
       bullets: [
         "Continuous customer service experience, including checking credentials and ensuring visit satisfaction",
+        "Intuitive sales skills, including money management and ticket/receipt experience",
         "",
-        "Mentored team of 5 junior developers",
       ],
     },
     {
-      company: "SA Community Pool Managment",
-      title: "Life Gaurd",
+      company: "Alamo Fireworks",
+      title: "Firework Sales",
+      dateRange: "2022-2025",
+      bullets: [
+        "Moving heavy boxes to sort fireworks for ease of visibility and selection",
+        "Kept track of inventory to ensure as few discrepancies as possible",
+        "Assisting customers per request and reason, ensuring every different need of a customer is met",
+      ],
+    },
+    {
+      company: "SA Community Pool Management",
+      title: "Life Guard",
       dateRange: "Jun 2020 - Oct 2022",
       bullets: [
         "Worked with checking in guests and ensuring their safety in the water",
@@ -56,36 +66,26 @@ export const siteConfig = {
         "Maintained cleanliness around the facility, ensuring guest satisfaction and safety",
       ],
     },
-    {
-      company: "Flix Brewhouse",
-      title: "Server",
-      dateRange: "July 2024 - Present",
-      bullets: [
-        "Developed responsive web applications for 20+ clients",
-        "Improved site performance scores by 35% on average",
-        "Introduced modern JavaScript frameworks to legacy codebases",
-      ],
-    },
   ],
   education: [
     {
-      school: "University Name",
-      degree: "Bachelor of Science in Computer Science",
-      dateRange: "2014 - 2018",
+      school: "St. Mary's University",
+      degree: "Bachelor of Science in Computer Engineering",
+      dateRange: "August 2024 - Present",
       achievements: [
-        "Graduated Magna Cum Laude with 3.8 GPA",
-        "Dean's List all semesters",
-        "President of Computer Science Club",
+        "Worked within many teams to complete tasks",
+        "Experience with writing reports and documenting project details",
+        "High focus on hardware construction and repair",
       ],
     },
     {
-      school: "Online Platform",
-      degree: "Full Stack Development Certificate",
-      dateRange: "2019",
+      school: "NSITE High School",
+      degree: "High School Diploma",
+      dateRange: "August 2020 - June 2024",
       achievements: [
-        "Completed 500+ hours of coursework",
-        "Built 10+ portfolio projects",
-        "Specialized in React and Node.js",
+        "Graduated Top 10%",
+        "Numerous IT and Cyber Security Certifications",
+        "CX Debate Captain",
       ],
     },
   ],
