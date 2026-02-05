@@ -25,15 +25,37 @@ import "../styles/global.css";
     />
     <title>{siteConfig.name} - {siteConfig.title}</title>
   </head>
+
   <body>
-    <Header />
-    <section>
-      <Hero />
-      <About />
-      <Projects />
-      <Experience />
-      <Education />
-    </section>
-    <Footer />
+    <!-- Fixed overlay (stays while scrolling, fades out) -->
+    <div
+      class="fixed inset-0 pointer-events-none z-0"
+      style={`
+        background: radial-gradient(
+          ellipse 900px 1200px at 0% 0%,
+          ${siteConfig.accentColor}45 0%,
+          ${siteConfig.accentColor}30 20%,
+          ${siteConfig.accentColor}15 40%,
+          rgba(255,255,255,0.25) 70%,
+          rgba(255,255,255,0.7) 90%,
+          white 100%
+        );
+        mask-image: linear-gradient(to bottom, black 0%, black 35%, transparent 100%);
+        -webkit-mask-image: linear-gradient(to bottom, black 0%, black 35%, transparent 100%);
+      `}
+    ></div>
+
+    <!-- Content above overlay -->
+    <div class="relative z-10">
+      <Header />
+      <section>
+        <Hero />
+        <About />
+        <Projects />
+        <Experience />
+        <Education />
+      </section>
+      <Footer />
+    </div>
   </body>
 </html>
