@@ -83,7 +83,7 @@ export const siteConfig = {
       degree: "High School Diploma",
       dateRange: "August 2020 - June 2024",
       achievements: [
-        "Graduated Top 10%",
+        "Graduated Top 5% with 3.9 GPA",
         "Numerous IT and Cyber Security Certifications",
         "CX Debate Captain",
       ],
