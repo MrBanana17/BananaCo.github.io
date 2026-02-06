@@ -84,8 +84,11 @@ export const siteConfig = {
       dateRange: "August 2020 - June 2024",
       achievements: [
         "Graduated Top 5% with 3.9 GPA",
-        "Numerous IT and Cyber Security Certifications",
         "CX Debate Captain",
+        "CompTIA+ Certification",
+        "IT Fundamentals Certification",
+        "Networking Certification",
+        "Network Security Certification",
       ],
     },
   ],
