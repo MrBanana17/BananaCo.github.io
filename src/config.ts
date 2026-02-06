@@ -86,7 +86,7 @@ export const siteConfig = {
         "Graduated Top 5% with 3.9 GPA",
         "CX Debate Captain",
         "CompTIA+ Certification",
-        "IT Fundamentals Certification",
+        "IT Fundamentals+ Certification",
         "Networking Certification",
         "Network Security Certification",
       ],
